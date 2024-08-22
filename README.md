@@ -1,2 +1,2 @@
 隠れん坊オンラインのLvを計算します。
-詳しくは配布コードのREADMEを参照。
+詳しくはHideioLvCal内のREADMEを参照。
