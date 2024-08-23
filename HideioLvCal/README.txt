@@ -1,5 +1,5 @@
 --------------------
-HideioLvCalV1 使い方
+HideioLvCalV2 使い方
 --------------------
 
 -特定のLvまでの必要経験値表示
@@ -40,3 +40,4 @@ https://github.com/yannurukana/yannurukana
 --------------------
 
 2024/08/23 HideioLvCalV1 公開
+2024/08/23 HideioLvCalV2 数値をウィンドウ内で入力できるように。計算結果を見やすく。
